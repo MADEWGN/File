@@ -1,0 +1,11 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'KONTOL'
+
+themesDir = "themes"
+theme = "bumi"
+
+
+[permalinks]
+  nime = '/anime/:slug/'
+  post = '/anime/:slug/'

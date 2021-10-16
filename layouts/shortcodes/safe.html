@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8239103031885616"
+     crossorigin="anonymous"></script>
+
+
+        <title>Safelink</title>
+    </head>
+<body>
+<style type="text/css">
+
+/* Safelink */
+.asbutton.outline{display: inline-flex;display: -webkit-inline-flex;flex-wrap: wrap;-webkit-flex-wrap: wrap;align-items: center;-webkit-align-items: center;margin-bottom: 10px;padding: 9px 20px;border-radius: 10px;font-size: .8rem;line-height: 1.3rem;background-color: #282828;color: #fff;border: 1px solid #fff;}
+.asbutton.outline{background-color:#282828;box-shadow: 0 2px 5px 0 rgba(0,0,0,.1);}
+.safelink span{display: block;font-size: 12px}
+.blockLink{display: flex;display: -webkit-flex;flex-wrap: wrap;-webkit-flex-wrap: wrap;align-items: center;-webkit-align-items: center}
+.blockLink > div{display: block;width: 35%;}
+.blockLink > div#go-link{width: 30%;}
+.blockLink > div#go-link a{display: none;margin: 0}
+.blockLink > div#go-link:target a{display: inline-flex}
+.ads-top{margin: 0 0 20px 0;text-align: center}
+#HTML99,#HTML99 .widget-content{border: 0 !important;margin: 0 !important;padding: 0 !important}
+/* Responsive */
+@media screen and (max-width: 768px){.blockLink > div{width: 100% !important;margin: 0 0 15px;text-align: center}.blockLink > div:last-child{margin: 0}}
+</style>
+
+
+<div class='separator' style='text-align:center'>
+<div class='ads-top'><!-- Fill AdSense code here--></div>
+<div class='safelink' id='safelink'>
+<center>
+<div class='asbutton outline' id='daplong'>
+Wait a minute...</div>
+<script>/*<![CDATA[*/ var currentURL=location.href; var str = currentURL; var res = str.replace('https://file-wibu.netlify.app/safelink.html' + '?url=', ""); function changeLink(){var decodedString = Base64.decode(res); window.open(decodedString,'_blank')}; document.write('<a href="#go-link" id="download-safelink" class="asbutton outline">Click to go to the link</a>'); var linkDL = document.getElementById("download-safelink"); var notif = document.getElementById("daplong"); var waktu = 20; var teks_waktu = document.createElement("span"); linkDL.parentNode.replaceChild(teks_waktu, linkDL); var id; id = setInterval(function () { waktu--; if (waktu < 0) { teks_waktu.parentNode.replaceChild(linkDL, teks_waktu); clearInterval(id); notif.style.display = "none"; linkDL.style.display = "inline-block"; } else { teks_waktu.innerHTML = "Link will appear in " + waktu.toString() + " second"; }}, 1000); /*]]>*/</script></center>
+</div>
+
+<div class='separator-text'><!-- Write your article content here --></div>
+
+<div class='blockLink' style='text-align:center'>
+<div id='ads-left' class='ads-left'><!-- Fill AdSense code here --></div>
+
+<div id='go-link'>
+<a class='asbutton outline' href='javascript:void(0)' onclick='changeLink();' rel='nofollow noreferrer'><i class ='icon demo'> </i>Go to the link</a>
+</div>
+
+<div id='ads-right' class='ads-right'><!-- Fill AdSense code here --></div>
+</div>
+
+</body>
+</html>

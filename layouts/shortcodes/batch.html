@@ -1,0 +1,23 @@
+<style type="text/css">
+/* Samehadaku Download Box */
+  .download-eps {font-size: 15px;font-weight: bold;padding: 10px;background: #f1f1f1;overflow: hidden;}
+  .download-eps .smokettl {padding: 8px 10px;background: #fff;margin-bottom: 7px;}
+  .download-eps ul {margin: 0;padding: 0;list-style: outside none none;overflow: hidden;}
+  .download-eps ul li {margin-bottom: 7px;line-height: 31px !important;background: #fff;}
+  .download-eps ul li span:after {content: "|";padding-left: 5px;padding-right: 5px;}
+  .download-eps ul li span:last-child:after {content: "";}
+  .download-eps ul li strong {background: none repeat scroll 0% 0% #1e7ce5;border-right: 2px solid #F5F5F5;width: 100px;display: block;float: left; color: #FFF; padding: 0 5px; text-align: center;}
+  @media screen and (max-width:680px) {
+    .dlbod {text-align: center;}
+  }
+</style>
+
+<div class="dlbod">
+  <div class="download-eps">
+    <div class="smokettl">BATCH {{ .Get 0 }}</div>
+    <ul>
+      <li style="text-align: center;"><strong>480p </strong> <span><a href="https://drive.google.com/open?id={{ .Get 1 }}" target="_blank" rel="nofollow noopener noreferrer">Google drive</a></span> <span><a href="https://drive.google.com/open?id={{ .Get 1 }}" target="_blank" rel="nofollow noopener noreferrer">AceFile</a></span> <span><a
+            href="https://drive.google.com/open?id={{ .Get 1 }}" target="_blank" rel="nofollow noopener noreferrer">Gdrive</a></span></li>
+      <li style="text-align: center;"><strong>720p </strong> <span><a href="https://drive.google.com/open?id={{ .Get 1 }}" target="_blank" rel="nofollow noopener noreferrer">Google drive</a></span> <span><a href="https://drive.google.com/open?id={{ .Get 1 }}" target="_blank" rel="nofollow noopener noreferrer">AceFile</a></span> <span><a
+            href="https://drive.google.com/open?id={{ .Get 1 }}" target="_blank" rel="nofollow noopener noreferrer">Gdrive</a></span></li>
+      
