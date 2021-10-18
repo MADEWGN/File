@@ -1,6 +1,6 @@
 ---
 title: "Getsuyoubi No Tawawa S2 Subtitle Indonesia"
-date: 2021-10-14T01:19:50Z
+date: 2021-10-18T01:19:50Z
 image: "https://telegra.ph/file/500cd70508b84088f40d8.jpg"
 tags:
         - on going
@@ -36,5 +36,7 @@ tags:
 {{< /info >}}
 
 {{< dl3 1-4 1jzbI9Nlvp6qMtrtUbYu5UwtjtG_L2r5O 1jzbI9Nlvp6qMtrtUbYu5UwtjtG_L2r5O >}}
+
+{{< dl3 05 1YRBTYPAQw8qCdQHCYuy62WOtP41hsBiC 1YRBTYPAQw8qCdQHCYuy62WOtP41hsBiC >}}
 
 {{< ads >}}
