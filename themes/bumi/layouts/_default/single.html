@@ -3,6 +3,12 @@
 <head>
     
     
+    {{ with .Params.robotsdisallow }}
+<meta name="robots" content="noindex, nofollow, noarchive">
+{{ end }}
+    
+    
+    
     {{ template "_internal/opengraph.html" . }}
     
     {{ partial "head.html" . }}
