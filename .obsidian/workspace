@@ -1,0 +1,76 @@
+{
+  "main": {
+    "id": "f5dbb06463fffcfa",
+    "type": "split",
+    "children": [
+      {
+        "id": "89c75fce2b16538c",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cabc8ffd9c404841",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "73c93f6bc4870b7d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "f75d57ea65fbb8a4",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "2a1e5fdfebd8a980",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "195bfc568669477c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "89c75fce2b16538c",
+  "lastOpenFiles": [
+    "content/post/berita/kny-s2-deley-di-eps-4.md",
+    "content/post/JoJo-no-Kimyou-na-Bouken-Stardust-Crusaders.md",
+    "Untitled.md"
+  ]
+}
