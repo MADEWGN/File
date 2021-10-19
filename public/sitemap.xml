@@ -2,23 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/anime/getsuyoubi-no-tawawa-s2-subtitle-indonesia/</loc>
-    <lastmod>2021-10-18T01:19:50+00:00</lastmod>
+    <loc>http://example.org/anime/akira-1988-bd-subtitle-indonesia/</loc>
+    <lastmod>2021-10-19T04:17:03+00:00</lastmod>
   </url><url>
     <loc>http://example.org/</loc>
+    <lastmod>2021-10-19T04:17:03+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/movie/</loc>
+    <lastmod>2021-10-19T04:17:03+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/post/</loc>
+    <lastmod>2021-10-19T04:17:03+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2021-10-19T04:17:03+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/anime/getsuyoubi-no-tawawa-s2-subtitle-indonesia/</loc>
     <lastmod>2021-10-18T01:19:50+00:00</lastmod>
   </url><url>
     <loc>http://example.org/tags/on-going/</loc>
     <lastmod>2021-10-18T01:19:50+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/post/</loc>
-    <lastmod>2021-10-18T01:19:50+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/tags/</loc>
-    <lastmod>2021-10-18T01:19:50+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/tags/movie/</loc>
-    <lastmod>2021-10-16T13:21:05+00:00</lastmod>
   </url><url>
     <loc>http://example.org/anime/violet-evergarden-movie-2020-bd-hevc/</loc>
     <lastmod>2021-10-16T13:21:05+00:00</lastmod>
