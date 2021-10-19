@@ -7,8 +7,11 @@
         "id": "89c75fce2b16538c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "content/berita/kny-s2-deley-di-eps-4.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -54,11 +57,12 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "content/berita/kny-s2-deley-di-eps-4.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
+            "showSearch": true,
+            "searchQuery": "Demon",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -69,6 +73,7 @@
   },
   "active": "89c75fce2b16538c",
   "lastOpenFiles": [
+    "content/berita/kny-s2-deley-di-eps-4.md",
     "content/post/berita/kny-s2-deley-di-eps-4.md",
     "content/post/JoJo-no-Kimyou-na-Bouken-Stardust-Crusaders.md",
     "Untitled.md"

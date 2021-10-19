@@ -9,7 +9,7 @@ Situs resmi dan akun Twitter untuk anime Demon Slayer: Kimetsu no Yaiba mengumum
 
 Demon Slayer: Kimetsu no Yaiba Mugen Train Arc adalah arc tujuh episode yang mengadaptasi film Mugen Train , dan ditayangkan perdana pada 10 Oktober. Demon Slayer: Kimetsu no Yaiba Entertainment District Arc ( Kimetsu no Yaiba: Yūkaku-hen ) anime televisikemudian akan tayang perdana pada 5 Desember dengan spesial satu jam. (Jika tidak ada penundaan lebih lanjut, arc saat ini masih dapat berakhir pada 28 November, sebelum Arc Distrik Hiburan dimulai.)
 
-Funimation dan Crunchyroll yang baik mengalir dengan Iblis Slayer: Kimetsu ada Yaiba Mugen Kereta Arc dan Iblis Slayer: Kimetsu ada Yaiba Entertainment District Arc .
+Funimation dan Crunchyroll yang baik mengalir dengan Demon Slayer: Kimetsu ada Yaiba Mugen Kereta Arc dan Demon Slayer: Kimetsu ada Yaiba Entertainment District Arc .
 
 Film anime The Demon Slayer – Kimetsu no Yaiba – The Movie: Mugen Train mulai diputar di Jepang pada Oktober 2020, dan menduduki puncak box office di Jepang selama 12 minggu berturut-turut. Film ini menjadi film pertama yang melewati tonggak sejarah 40 miliar yen. Film ini adalah film berpenghasilan tertinggi di seluruh dunia sejak tahun 2020. Ini adalah film non-Hollywood atau non-Amerika pertama yang menduduki puncak box office tahunan di seluruh dunia sejak awal perfilman lebih dari seabad yang lalu. Crunchyroll dan Funimation yang mengalir film.
 
