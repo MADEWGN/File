@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://file-wibu.netlify.app/'
 languageCode = 'en-us'
-title = 'KONTOL'
+title = 'FILE - WIBU'
 
 themesDir = "themes"
 theme = "bumi"
