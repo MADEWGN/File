@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "f5dbb06463fffcfa",
+    "id": "6b0b810c50d626e4",
     "type": "split",
     "children": [
       {
-        "id": "89c75fce2b16538c",
+        "id": "7ce5ebd6e11d5879",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/post/Magic-Kaito-1412.md",
+            "file": "content/safelink.md",
             "mode": "source"
           }
         }
@@ -18,11 +18,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "cabc8ffd9c404841",
+    "id": "1348679f98433ae4",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "73c93f6bc4870b7d",
+        "id": "d3f0ec12cf9da69e",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -30,7 +30,7 @@
         }
       },
       {
-        "id": "f75d57ea65fbb8a4",
+        "id": "d12f1924fda6a38d",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -48,21 +48,21 @@
     "currentTab": 0
   },
   "right": {
-    "id": "2a1e5fdfebd8a980",
+    "id": "aebfdd7a62166d9f",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "195bfc568669477c",
+        "id": "ed19bf1f55670e81",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/post/Magic-Kaito-1412.md",
+            "file": "content/safelink.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
-            "showSearch": true,
-            "searchQuery": "Demon",
+            "showSearch": false,
+            "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -71,15 +71,8 @@
     ],
     "currentTab": 0
   },
-  "active": "89c75fce2b16538c",
+  "active": "7ce5ebd6e11d5879",
   "lastOpenFiles": [
-    "content/post/Magic-Kaito-1412.md",
-    "content/post/Ousama-Ranking.md",
-    "resources/_gen/images/avatar_huda2458f72ce188392d75c5d51cd8e24e_373_300x0_resize_box_3.png",
-    "layouts/shortcodes/tags.html.md",
-    "content/berita/kny-s2-deley-di-eps-4.md",
-    "content/post/berita/kny-s2-deley-di-eps-4.md",
-    "content/post/JoJo-no-Kimyou-na-Bouken-Stardust-Crusaders.md",
-    "Untitled.md"
+    "content/safelink.md"
   ]
 }
