@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/safelink.md",
+            "file": "content/post/Shuumatsu-no-Harem.md",
             "mode": "source"
           }
         }
@@ -57,7 +57,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/safelink.md",
+            "file": "content/post/Shuumatsu-no-Harem.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -73,6 +73,8 @@
   },
   "active": "7ce5ebd6e11d5879",
   "lastOpenFiles": [
+    "content/post/Shuumatsu-no-Harem.md",
+    "archetypes/default.md",
     "content/safelink.md"
   ]
 }
