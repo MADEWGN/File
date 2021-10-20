@@ -1,5 +1,5 @@
 ---
-title: "Magic Kaito 1412"
+title: "Magic Kaito 1412 Subtitle Indonesia"
 date: 2021-10-20T07:12:24Z
 image: "https://telegra.ph/file/3ee26efb50c4f9d9f6ffa.jpg"
 tags :
