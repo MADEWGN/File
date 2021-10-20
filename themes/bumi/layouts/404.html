@@ -1,6 +1,120 @@
-<meta content="
-
-{{- .Title -}} , download{{- .Title -}} batch sub indo, download{{- .Title -}} komplit , download{{- .Title -}} google drive,{{- .Title -}} batch subtitle indonesia,{{- .Title -}} batch mp4,{{- .Title -}} bd,{{- .Title -}} kurogaze,{{- .Title -}} anibatch,{{- .Title -}} animeindo,{{- .Title -}} samehadaku , donwload anime{{- .Title -}} batch , donwload{{- .Title -}} sub indo, download{{- .Title -}} batch google drive, download{{- .Title -}} batch Mega , donwload{{- .Title -}} MKV 480P , donwload{{- .Title -}} MKV 720P , donwload{{- .Title -}} , donwload{{- .Title -}} anime batch, donwload{{- .Title -}} sub indo, donwload{{- .Title -}} , donwload{{- .Title -}} batch sub indo , download anime{{- .Title -}} , anime{{- .Title -}} , download anime mp4 , mkv , 3gp sub indo , download anime sub indo , download anime sub indo{{- .Title -}}
-
-
-"name="keywords"/>
+<span itemprop='name'>Tools Upload File</span>
+</div>
+<article class='post-outer-single'>
+<div class='post-content'>
+<script type='application/ld+json'>{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.farih.web.id/p/tools-upload-images.html"
+  },
+  "headline": "Tools Upload File","description": "FILE ANDA AKAN DI SIMPAN KE SERVER YANG AMAN DI DUKUNG SEMUA FILE                                                                 CARA UPLO...","datePublished": "2021-08-31T07:01:00-07:00",
+  "dateModified": "2021-09-01T07:13:10-07:00","image": {
+    "@type": "ImageObject","url": "https://1.bp.blogspot.com/-IrEt_hOycqM/YS-II0mqKrI/AAAAAAAADVc/K1moLNPgiR018pZ4RFhqtDd68MfmuahRACLcBGAsYHQ/w1200-h630-p-k-no-nu/files-farih.png",
+    "height": 630,
+    "width": 1200},"publisher": {
+    "@type": "Organization",
+    "name": "Blogger",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://lh3.googleusercontent.com/ULB6iBuCeTVvSjjjU1A-O8e9ZpVba6uvyhtiWRti_rBAs9yMYOFBujxriJRZ-A=h60",
+      "width": 206,
+      "height": 60
+    }
+  },"author": {
+    "@type": "Person",
+    "name": "."
+  }
+}</script>
+<a name='2004970165204865498'></a>
+<h1 class='post-title entry-title'>
+Tools Upload File
+</h1>
+<div class='post-body post-body-artikel' id='post-body-2004970165204865498'>
+<img alt="" border="0" data-original-height="500" data-original-width="500" src="https://1.bp.blogspot.com/-IrEt_hOycqM/YS-II0mqKrI/AAAAAAAADVc/K1moLNPgiR018pZ4RFhqtDd68MfmuahRACLcBGAsYHQ/s9000/files-farih.png" width="90" />
+FILE ANDA AKAN DI SIMPAN KE SERVER YANG AMAN DI DUKUNG SEMUA FILE
+<style>
+  ::-webkit-file-upload-button,#kirim-file-upload {
+  background: #4f9854;
+  color: #fff;
+  padding: 5px 10px;
+  border: none;
+  border-radius:5px;
+  outline: none;
+  cursor: pointer;
+  }
+  #uploaded {
+    margin: 20px 0;
+    text-align: center;
+  }
+  #submit-file {
+    cursor: pointer;
+  }
+</style>
+<form id="form-upload">
+<div class="datainput">
+<input name="fullname" id="fullname" placeholder="Nama Lengkap" type="text">
+</div>
+<div class="datainput">
+<input name="filename" id="filename" placeholder="Nama File" type="text">
+</div>
+<div class="datainput">
+<input name="filename" id="filename" placeholder="Email" type="text">
+</div>
+<div class="datainput">
+<input name="file" id="uploadfile" type="file">
+<input id="submit-file" type="submit" value="Upload File">
+</div>
+<div id='uploaded'></div>
+</form>
+<script>
+const form = document.getElementById('form-upload');
+const upload = document.getElementById('uploaded');
+form.addEventListener('submit', e => {
+  e.preventDefault();
+  const file = form.file.files[0];
+  const fr = new FileReader();
+  fr.readAsArrayBuffer(file);
+  var progressUpload = "Proses upload file, silahkan ditunggu";
+  upload.innerHTML = progressUpload;
+fr.onload = f => {
+  // I added below script.
+  let newName = form.filename.value;
+  const orgName = file.name;
+  if (orgName.includes(".")) {
+    const orgExt = orgName.split(".").pop();
+    if (orgExt != newName.split(".").pop()) {
+      newName = newName ? `${newName}.${orgExt}` : orgName;
+    }
+  }
+  
+  const url = "https://script.google.com/macros/s/AKfycby--gzKiEq63DERCWKi8HpxYRNqFJ4LCgsqHYRchXC6f5CeeOuh/exec";
+  
+  const qs = new URLSearchParams({filename: newName, mimeType: file.type});  // Modified
+  fetch(`${url}?${qs}`, {method: "POST", body: JSON.stringify([...new Int8Array(f.target.result)])})
+  .then(res => res.json())
+  .then(e => upload.innerHTML = '<p class="center">File berhasil terupload</p><a id="linkfile" href="'+e.fileUrl+'" target="_blank" rel="noopener nofollow">Lihat File</a>')  // <--- You can retrieve the returned value here.
+  .catch(err => console.log(err));
+}
+});
+  $('#kirim-file-upload').click(uploadedFile);
+  function uploadedFile() { 
+    var walink = 'https://web.whatsapp.com/send'; 
+    if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) { 
+      var walink = 'whatsapp://send'; 
+    } 
+    var namaUploaded = '*Nama Lengkap* : ' + $("#fullname").val();
+    var namaFile = '*Nama File* : ' + $("#filename").val();
+    var linkFile = '*Link File* : ' + $("#linkfile").attr("href");
+    console.log(linkFile)
+    var nomorHP = getRandom(phonenumber);
+    var teksPesan = "Hai, Mas Azid saya sudah kirim file, berikut detailnya:";
+    var kirimFile = walink + '?phone=' + nomorHP + '&text=' + teksPesan + '%0A%0A' + namaUploaded + '%0A' + namaFile + '%0A' + linkFile;
+    window.open(kirimFile,'_blank');
+  }
+</script>
+<div><span style="font-family: arial;">CARA UPLOAD</span></div><div><span style="font-family: arial;"><br /></span></div><div><span style="font-family: arial;">1. KLIK PILIH FILE &gt; PILIH FILE YANG MAU DI UPLOAD LALU KLIK OK</span></div><div><span style="font-family: arial;">2. KLIK UPLOAD FILE</span></div><div><span style="font-family: arial;">3. TUNGGU BEBERAPA DETIK FILE AKAN KE SIMPAN DAN SELESAI</span></div><div><span style="font-family: arial;"><br /></span></div><div><span style="font-family: arial;">ANDA BISA SHARE FILE ANDA DI LINK YANG SERVER KAMI BERIKAN</span></div><div><span style="font-family: arial;"><br /></span></div><div><span style="font-family: arial;">CEPAT ATAU LAMBAT NYA UPLOAD FILE TERNGGANTUNG UKURAN FILE DAN JARINGAN</span></div>
+</div>
+<div id='baca-juga'></div>
+<script>
