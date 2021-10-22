@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/post/Youjo-Senki.md",
+            "file": "content/post/Ousama-Ranking.md",
             "mode": "source"
           }
         }
@@ -57,7 +57,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/post/Youjo-Senki.md",
+            "file": "content/post/Ousama-Ranking.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -73,6 +73,7 @@
   },
   "active": "7ce5ebd6e11d5879",
   "lastOpenFiles": [
+    "content/post/Ousama-Ranking.md",
     "content/post/Youjo-Senki.md",
     "content/post/Shuumatsu-no-Harem.md",
     "archetypes/default.md",
