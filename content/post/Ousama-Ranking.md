@@ -1,6 +1,6 @@
 ---
 title: "Ousama Ranking Dual Subs Indonesia & English"
-date: 2021-10-15T07:21:33Z
+date: 2021-10-22T07:21:33Z
 image: "https://telegra.ph/file/d4f896d60a7681450b80d.jpg"
 tags: 
        - on going
