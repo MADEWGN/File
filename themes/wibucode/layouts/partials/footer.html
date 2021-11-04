@@ -1,0 +1,104 @@
+<footer class="footer-area">
+    <div class="col-lg-12">
+        <div class="row mt-3">
+            <div class="col-lg-12">
+                <div class="f-widget mb-5 text-center">
+                    <a class="btn btn-widget" href="https://www.instagram.com/MAdeADIwiguna" ><i class="fab fa-instagram fa-lg"></i></a>
+                    <a class="btn btn-widget" href="https://t.me/MADEadiwiguna"><i class="fab fa-telegram-plane fa-lg"></i></a>           
+                    <a class="btn btn-widget" href="https://www.facebook.com/made.wiguna.54540"><i class="fab fa-facebook-f fa-lg"></i></a>      
+                </div>
+            </div>
+        </div>
+        <!--<div class="row justify-content-center menu">
+            <a href="">FAQs</a>
+            <a href="/about">About</a>
+            <a href="">Disclaimer</a>
+            <a href="">Contact</a>
+            <a href="">Arsip</a>
+        </div>-->
+        <div class="row text-white copyright">
+            <div class="col-lg-12">
+                <p class="text-center">© 2020 MadeWIGUNA - Themes By <a href="http://madewgn.github.io/">MadeWiguna</a> <i class="fas fa-heart text-danger"></i> Using Hugo
+                    v0.76.5</p>
+            </div>
+        </div>
+    </div>
+</footer>
+</body>
+
+<script src="/assets/js/jquery-3.5.1.slim.min.js"></script>
+<script src="/assets/js/bootstrap.bundle.min.js"></script>
+
+<script>
+
+    //kat 1
+    const buttonRight1 = document.getElementById("slideRightback-end");
+    const buttonLeft1 = document.getElementById("slideLeftback-end");
+    const item1 = document.getElementById("artkback-end");
+    buttonRight1.onclick = function () {
+        item1.scrollLeft += 90;
+    };
+    buttonLeft1.onclick = function () {
+        item1.scrollLeft -= 90;
+    };
+
+    //kat 2
+    const buttonRight2 = document.getElementById("slideRightfront-end");
+    const buttonLeft2 = document.getElementById("slideLeftfront-end");
+    const item2 = document.getElementById("artkfront-end");
+    buttonRight2.onclick = function () {
+        item2.scrollLeft += 90;
+    };
+    buttonLeft2.onclick = function () {
+        item2.scrollLeft -= 90;
+    };
+
+</script>
+<script>
+    const namaKat = nama => {
+        const nama2 = nama.split('-');
+
+        let nama3 = [];
+        nama2.forEach(nm => {
+            nama3.push(nm.charAt(0).toUpperCase() + nm.slice(1));
+        });
+        const nama4 = nama3.join(' ');
+
+        return nama4;
+    };
+
+    $('.nama-kategori').each(function () {
+        $(this).text(namaKat($(this).text()));
+    });
+</script>
+
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on('init', (user) => {
+      if (!user) {
+        window.netlifyIdentity.on('login', () => {
+          document.location.href = '/admin/';
+        });
+      }
+    });
+  }
+  
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8239103031885616"
+     crossorigin="anonymous"></script>
+<!-- Vertical ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8239103031885616"
+     data-ad-slot="7082438279"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</script>
+
+
+
+
+</html>

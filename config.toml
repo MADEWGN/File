@@ -1,11 +1,4 @@
-baseURL = 'https://file-wibu.netlify.app/'
-languageCode = 'en-us'
-title = 'FILE - WIBU'
-
-themesDir = "themes"
-theme = "bumi"
-
-
-[permalinks]
-  nime = '/anime/:slug/'
-  post = '/anime/:slug/'
+baseURL = "https://recipesbook.netlify.com/"
+languageCode = "en-us"
+title = "HENTAI INDEX"
+theme = "wibucode"

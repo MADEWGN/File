@@ -1,0 +1,7 @@
+baseURL: "https://example.com"
+languageCode: "en-us"
+title: "Weebs Files"
+pygmentsstyle: 'monokai'
+paginate: 10
+taxonomies:
+  author: Made Wiguna
