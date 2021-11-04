@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Front End on HENTAI INDEX</title>
-    <link>https://recipesbook.netlify.com/categories/front-end/</link>
+    <link>https://file-wibu.netlify.com/categories/front-end/</link>
     <description>Recent content in Front End on HENTAI INDEX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Dec 2020 10:07:20 +0700</lastBuildDate><atom:link href="https://recipesbook.netlify.com/categories/front-end/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Dec 2020 10:07:20 +0700</lastBuildDate><atom:link href="https://file-wibu.netlify.com/categories/front-end/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pengenalan HTML</title>
-      <link>https://recipesbook.netlify.com/posts/html/pengenalan-html/</link>
+      <link>https://file-wibu.netlify.com/posts/html/pengenalan-html/</link>
       <pubDate>Thu, 24 Dec 2020 10:07:20 +0700</pubDate>
       
-      <guid>https://recipesbook.netlify.com/posts/html/pengenalan-html/</guid>
+      <guid>https://file-wibu.netlify.com/posts/html/pengenalan-html/</guid>
       <description>👋 Selamat datang di materi pembelajaran HTML bersama Wibucode, sebelum kita belajar mengenai HTML, kalian pasti sudah sangat familiar bukan dengan yang namanya Website? 💡 Mengenal Website? Website merupakan halaman web yang sering kali kita kunjungi di Internet, contohnya ketika kamu mengunjungi search engine Google, dengan meng-klik link tadi dan tampil halaman Google Search, maka kamu sudah berhasil mengunjungi sebuah halaman web. Sebuah halaman web memiliki alamat tersendiri seperti halnya halaman web dari Wibucode yang dapat dikunjungi melalui alamat Wibucode.</description>
     </item>
     
     <item>
       <title>Pengenalan Hugo</title>
-      <link>https://recipesbook.netlify.com/posts/hugo/pengenalan/</link>
+      <link>https://file-wibu.netlify.com/posts/hugo/pengenalan/</link>
       <pubDate>Sun, 20 Dec 2020 17:14:09 +0800</pubDate>
       
-      <guid>https://recipesbook.netlify.com/posts/hugo/pengenalan/</guid>
+      <guid>https://file-wibu.netlify.com/posts/hugo/pengenalan/</guid>
       <description>Apa sih Hugo itu? &amp;ldquo;Hugo&amp;rdquo; ya bukan &amp;ldquo;Hago&amp;rdquo; itu beda lagi. 
 Sebelum masuk ke pembahasan perlu saya ingatkan pada artikel ini tidak membahas Cara Installasi Hugo, tapi artikel ini sebagai pengenalan mengenai Hugo. Anggap saja sebagai pemanasan sebelum ngoding.
 Sebelum masuk ke pembahasan perlu saya ingatkan pada artikel ini tidak membahas cara install Hugo tersebut, tapi sebagai pengenalan mengenai Hugo. Anggap aja sebagai pemanasan sebelum ngoding.

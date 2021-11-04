@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HENTAI INDEX</title>
-    <link>https://recipesbook.netlify.com/</link>
+    <link>https://file-wibu.netlify.com/</link>
     <description>Recent content on HENTAI INDEX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Dec 2020 10:07:20 +0700</lastBuildDate><atom:link href="https://recipesbook.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Dec 2020 10:07:20 +0700</lastBuildDate><atom:link href="https://file-wibu.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Safelink</title>
-      <link>https://recipesbook.netlify.com/safelink/</link>
+      <link>https://file-wibu.netlify.com/safelink/</link>
       <pubDate>Wed, 20 Oct 2021 09:12:19 +0000</pubDate>
       
-      <guid>https://recipesbook.netlify.com/safelink/</guid>
+      <guid>https://file-wibu.netlify.com/safelink/</guid>
       <description>Safelink   .asbutton.outline{display: inline-flex;display: -webkit-inline-flex;flex-wrap: wrap;-webkit-flex-wrap: wrap;align-items: center;-webkit-align-items: center;margin-bottom: 10px;padding: 9px 20px;border-radius: 10px;font-size: .8rem;line-height: 1.3rem;background-color: #282828;color: #fff;border: 1px solid #fff;} .asbutton.outline{background-color:#282828;box-shadow: 0 2px 5px 0 rgba(0,0,0,.1);} .safelink span{display: block;font-size: 12px} .blockLink{display: flex;display: -webkit-flex;flex-wrap: wrap;-webkit-flex-wrap: wrap;align-items: center;-webkit-align-items: center} .blockLink  div{display: block;width: 35%;} .blockLink  div#go-link{width: 30%;} .blockLink  div#go-link a{display: none;margin: 0} .blockLink  div#go-link:target a{display: inline-flex} .ads-top{margin: 0 0 20px 0;text-align: center} #HTML99,#HTML99 .widget-content{border: 0 !important;margin: 0 !</description>
     </item>
     
     <item>
       <title>Pengenalan HTML</title>
-      <link>https://recipesbook.netlify.com/posts/html/pengenalan-html/</link>
+      <link>https://file-wibu.netlify.com/posts/html/pengenalan-html/</link>
       <pubDate>Thu, 24 Dec 2020 10:07:20 +0700</pubDate>
       
-      <guid>https://recipesbook.netlify.com/posts/html/pengenalan-html/</guid>
+      <guid>https://file-wibu.netlify.com/posts/html/pengenalan-html/</guid>
       <description>👋 Selamat datang di materi pembelajaran HTML bersama Wibucode, sebelum kita belajar mengenai HTML, kalian pasti sudah sangat familiar bukan dengan yang namanya Website? 💡 Mengenal Website? Website merupakan halaman web yang sering kali kita kunjungi di Internet, contohnya ketika kamu mengunjungi search engine Google, dengan meng-klik link tadi dan tampil halaman Google Search, maka kamu sudah berhasil mengunjungi sebuah halaman web. Sebuah halaman web memiliki alamat tersendiri seperti halnya halaman web dari Wibucode yang dapat dikunjungi melalui alamat Wibucode.</description>
     </item>
     
     <item>
       <title>Pengenalan Hugo</title>
-      <link>https://recipesbook.netlify.com/posts/hugo/pengenalan/</link>
+      <link>https://file-wibu.netlify.com/posts/hugo/pengenalan/</link>
       <pubDate>Sun, 20 Dec 2020 17:14:09 +0800</pubDate>
       
-      <guid>https://recipesbook.netlify.com/posts/hugo/pengenalan/</guid>
+      <guid>https://file-wibu.netlify.com/posts/hugo/pengenalan/</guid>
       <description>Apa sih Hugo itu? &amp;ldquo;Hugo&amp;rdquo; ya bukan &amp;ldquo;Hago&amp;rdquo; itu beda lagi. 
 Sebelum masuk ke pembahasan perlu saya ingatkan pada artikel ini tidak membahas Cara Installasi Hugo, tapi artikel ini sebagai pengenalan mengenai Hugo. Anggap saja sebagai pemanasan sebelum ngoding.
 Sebelum masuk ke pembahasan perlu saya ingatkan pada artikel ini tidak membahas cara install Hugo tersebut, tapi sebagai pengenalan mengenai Hugo. Anggap aja sebagai pemanasan sebelum ngoding.
@@ -39,19 +39,19 @@ Menurut situs resminya bahwa Hugo itu merupakan &amp;ldquo;Kerangka kerja tercep
     
     <item>
       <title>Posts</title>
-      <link>https://recipesbook.netlify.com/project/posts/</link>
+      <link>https://file-wibu.netlify.com/project/posts/</link>
       <pubDate>Sat, 19 Dec 2020 21:58:15 +0800</pubDate>
       
-      <guid>https://recipesbook.netlify.com/project/posts/</guid>
+      <guid>https://file-wibu.netlify.com/project/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Path</title>
-      <link>https://recipesbook.netlify.com/path/</link>
+      <link>https://file-wibu.netlify.com/path/</link>
       <pubDate>Sat, 12 Dec 2020 22:52:04 +0700</pubDate>
       
-      <guid>https://recipesbook.netlify.com/path/</guid>
+      <guid>https://file-wibu.netlify.com/path/</guid>
       <description>Path Path pengembangan web front End HTML HTML Dasar
 HTML Lanjutan
 &amp;hellip;
@@ -67,19 +67,19 @@ PHP Lanjutan
     
     <item>
       <title>About</title>
-      <link>https://recipesbook.netlify.com/about/</link>
+      <link>https://file-wibu.netlify.com/about/</link>
       <pubDate>Tue, 08 Dec 2020 22:08:49 +0700</pubDate>
       
-      <guid>https://recipesbook.netlify.com/about/</guid>
+      <guid>https://file-wibu.netlify.com/about/</guid>
       <description>Ini halaman About</description>
     </item>
     
     <item>
       <title>Apa kata mereka?</title>
-      <link>https://recipesbook.netlify.com/testimonials/posts/</link>
+      <link>https://file-wibu.netlify.com/testimonials/posts/</link>
       <pubDate>Tue, 08 Dec 2020 03:38:23 +0700</pubDate>
       
-      <guid>https://recipesbook.netlify.com/testimonials/posts/</guid>
+      <guid>https://file-wibu.netlify.com/testimonials/posts/</guid>
       <description>Apa Kata Mereka? “ saya mendapatkan banyak pengetahuan, teman seperjuangan dan keseruan “
 &amp;quot; Setelah masuk ke grub wibucode sy mempunyai teman&amp;quot; yg sepengetahuan dgn su mulai dr UI UX designer sampai dgn web dev &amp;quot;
 &amp;quot; Walaupun saya bukan wibu tapi saya senang bergabung disini, saya banyak mendapati teman&amp;quot; baru dan berbagai motivasi yang merubah pandangan hidup saya dari forum wibucode &amp;quot;
@@ -88,10 +88,10 @@ PHP Lanjutan
     
     <item>
       <title>Buku</title>
-      <link>https://recipesbook.netlify.com/rekomendasi/buku/</link>
+      <link>https://file-wibu.netlify.com/rekomendasi/buku/</link>
       <pubDate>Sat, 28 Nov 2020 00:44:40 +0700</pubDate>
       
-      <guid>https://recipesbook.netlify.com/rekomendasi/buku/</guid>
+      <guid>https://file-wibu.netlify.com/rekomendasi/buku/</guid>
       <description></description>
     </item>
     
