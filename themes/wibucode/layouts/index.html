@@ -9,11 +9,11 @@
          
 <div class="container">
     <div class="row">
-        {{ range (.Paginate (where .Site.RegularPages "Section" "posts")).Pages }}
+        {{ range (.Paginate (where .Site.RegularPages "Section" "post")).Pages }}
         <div class="col-sm-4 mt-2 py-3 py-sm-2">
             <div class="card">
                 <a href=" {{ .Permalink }} ">
-                    <img src="/img/{{ .Params.featured_image }}" alt="" class="card-img-top">
+                    <img src="{{ .Params.featured_image }}" alt="" class="card-img-top">
                 </a>
                 <div class="card-body">
                         <h5 class="card-title"><a href=" {{ .Permalink }} ">{{ .Title }}</a></h5>
